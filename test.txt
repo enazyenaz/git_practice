@@ -8,3 +8,4 @@ Added an important change.
 Added another important change.
 
 Added that we fixed the critical bug.
+Added a cool feature.
